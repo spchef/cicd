@@ -1,2 +1,2 @@
-# simpleapp
-Kubernetes CI/CD Pipeline testin
+# CI CD Pipeline Using Jenkins and Kubernetes 
+Kubernetes CI/CD Pipeline testing
